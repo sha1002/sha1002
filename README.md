@@ -2,7 +2,7 @@
 
 I build things, break things, redesign them, and occasionally wonder why I decided to build them in the first place.
 
-Personal website link: (https://harshasri.vercel.app)
+Personal website link: https://harshasri.vercel.app
 
 I'm a Computer Science student who enjoys working across software development, UI/UX, and AI/ML. I like building things that are not just functional, but actually feel good to use.
 
