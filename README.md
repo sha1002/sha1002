@@ -2,7 +2,7 @@
 
 I build things, break things, redesign them, and occasionally wonder why I decided to build them in the first place.
 
-[🌐 Personal Website](YOUR_PORTFOLIO_LINK)
+[🌐 Personal Website](harshasri.vercel.app)
 
 I'm a Computer Science student who enjoys working across software development, UI/UX, and AI/ML. I like building things that are not just functional, but actually feel good to use.
 
@@ -87,11 +87,11 @@ There are a few more experiments hiding around here too. :)
 
 ---
 
-## Let's connect
+## Socials
 
-- 🌐 Website: harshasri.vercel.app
-- 💼 LinkedIn: https://www.linkedin.com/in/harsha-sri1002/
-- 🐙 GitHub: @sha1002
+- 🌐 Website: [My Website](https://harshasri.vercel.app)
+- 💼 LinkedIn: [Harsha Sri](https://www.linkedin.com/in/harsha-sri1002/)
+- 🐙 GitHub: [@sha1002](https://www.github.com/sha1002)
 - 📧 Email: harshasrikaveti@gmail.com (feel free to reach out!)
 
 Feel free to reach out if you want to talk about tech, projects, design, startups, or building random things on the internet.
