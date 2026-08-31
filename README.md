@@ -51,25 +51,15 @@ Feel free to explore my work here — some of it is polished, some of it is expe
 
 ---
 
-## Experience & Involvement
+## Highlights
 
 - **Software Engineering Intern — HealthFirst Technologies:** Worked across frontend development, backend systems, UI/UX, and internal tooling for healthcare applications.
 - **Student Affairs Council:** Contributed to student initiatives and creative/organizational work.
-- **Cisco DevNet Campus Ambassador:** Engaged with developer technologies and the wider developer community.
-- **Google Women Engineers — Cohort 6:** Selected as part of the program's cohort.
-- **McKinsey.org Forward:** Selected participant in the global professional development program.
-
----
-
-## A few things I've built
-
-- **UnJam** — Traffic congestion prediction + geospatial decision support
-- **Scit & Grit** — Git-inspired version control systems
-- **Qrypt** — Secure messaging + post-quantum cryptography exploration
-- **CodePlayground** — Interactive coding environment
-- **AES Image Encryption** — Image encryption using AES
-
-There are a few more experiments hiding around here too. :)
+- **Flipkart GRiD Hackathon** — Achieved a **91.16 leaderboard score** with UnJam, an ML-powered traffic congestion decision-support system.
+- **Google Women Engineers — Cohort 6** — Selected for the program's cohort.
+- **Cisco DevNet Campus Ambassador** — Selected as a campus ambassador for Cisco's developer community.
+- **McKinsey.org Forward** — Selected participant in the professional development program.
+- **Built across the stack** — From full-stack applications and developer tools to machine learning systems, cryptography, and interactive dashboards.
 
 ---
 
