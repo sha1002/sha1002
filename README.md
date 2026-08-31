@@ -2,7 +2,7 @@
 
 I build things, break things, redesign them, and occasionally wonder why I decided to build them in the first place.
 
-[🌐 Personal Website](harshasri.vercel.app)
+Personal website link: (https://harshasri.vercel.app)
 
 I'm a Computer Science student who enjoys working across software development, UI/UX, and AI/ML. I like building things that are not just functional, but actually feel good to use.
 
@@ -28,7 +28,7 @@ Feel free to explore my work here — some of it is polished, some of it is expe
 | Project | What it is | Tech |
 | --- | --- | --- |
 | [UnJam](https://unjam-ai.streamlit.app/) | ML-powered traffic congestion decision-support system with geospatial visualization. | Python, Scikit-learn, Pandas, Streamlit, Folium |
-| [Scit & Grit](YOUR_REPO_LINK) | Two Git-inspired version control systems built from scratch in Scala and Rust. | Scala, Rust, SHA-1, File Systems, CLI |
+| [Scit & Grit](https://gitlab.com/decbootcamp) | Two Git-inspired version control systems built from scratch in Scala and Rust. | Scala, Rust, SHA-1, File Systems, CLI |
 | [Qrypt](https://gitlab.com/harsha1002/qrypt) | A proof-of-concept secure messaging application exploring Kyber, AES, and post-quantum cryptography. | React, Node.js, Firebase, Socket.io |
 | Sajj | An ongoing project exploring ideas around [SHORT DESCRIPTION]. | [TECH STACK] |
 | Major Project | Current course project — more coming soon. | [TECH STACK] |
@@ -58,20 +58,6 @@ Feel free to explore my work here — some of it is polished, some of it is expe
 - **Cisco DevNet Campus Ambassador:** Engaged with developer technologies and the wider developer community.
 - **Google Women Engineers — Cohort 6:** Selected as part of the program's cohort.
 - **McKinsey.org Forward:** Selected participant in the global professional development program.
-- **Google Gen AI Academy:** Selected participant in the APAC cohort.
-
----
-
-## Things I've been exploring
-
-I'm especially interested in:
-
-- 🤖 AI/ML and practical AI applications
-- 🧩 Product engineering
-- 🎨 UI/UX and interactive web experiences
-- 🏗️ Building useful developer tools
-- 💡 Startups and early-stage products
-- 🔬 Trying technologies just because I want to know how they work
 
 ---
 
