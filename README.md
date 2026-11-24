@@ -30,8 +30,8 @@ Feel free to explore my work here — some of it is polished, some of it is expe
 | [UnJam](https://unjam-ai.streamlit.app/) | ML-powered traffic congestion decision-support system with geospatial visualization. | Python, Scikit-learn, Pandas, Streamlit, Folium |
 | [Scit & Grit](https://gitlab.com/decbootcamp) | Two Git-inspired version control systems built from scratch in Scala and Rust. | Scala, Rust, SHA-1, File Systems, CLI |
 | [Qrypt](https://gitlab.com/harsha1002/qrypt) | A proof-of-concept secure messaging application exploring Kyber, AES, and post-quantum cryptography. | React, Node.js, Firebase, Socket.io |
-| Sajj | An ongoing project exploring ideas around [SHORT DESCRIPTION]. | [TECH STACK] |
-| Major Project | Current course project — more coming soon. | [TECH STACK] |
+| Sajj | An ongoing project exploring ideas around [SHORT DESCRIPTION]. |  |
+| Major Project | Current course project — more coming soon. |  |
 
 ---
 
